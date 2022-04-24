@@ -15,8 +15,9 @@ It would be my pleasure and honor to lead the engineering teams at your organiza
 
 To summarize, I am a purpose driven leader with over 25 years of experience in scaling products, engineering and devops organizations. My core strengths include collaboratively defining the vision, driving strategic planning around it and building and growing organizations to deliver on those strategic initiatives. 
 
-Nikhil Singhal
-Seattle, WA
-nikhilsinghal@hotmail.com
-206-226-2722
-https://www.linkedin.com/in/nikhilsinghal/
+Nikhil Singhal  
+Seattle, WA  
+nikhilsinghal@hotmail.com  
+206-226-2722  
+https://www.linkedin.com/in/nikhilsinghal/  
+
