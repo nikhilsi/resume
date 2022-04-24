@@ -1,7 +1,7 @@
 # Nikhil Singhal 
 
 ## Introduction
-18 Products. I have led, built, architected and evangelized 18 engaging user centric and B2B platform products over the last 25 years. All World-class, cutting-edge technology, built with love and passion that delight customers at scale. 
+18 Products. I have led, built, architected and evangelized 18 engaging user centric and B2B SaaS platform products over the last 25 years. All World-class, cutting-edge technology, built with love and passion that delight customers at scale. 
 
 I have rich experience ranging from running my own startups to large companies such as Microsoft, AT&T and Digital Equipment. My journey has enabled me to work deeply across various industry verticals – employee engagement and wellbeing, communities, travel, location-based gaming, ecommerce, green energy, insurance and education. 
 
@@ -33,4 +33,5 @@ https://www.linkedin.com/in/nikhilsinghal/
 ## LinkedIn Recommendations
 [Nikhil Singhal 109 LinkedIn recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-109-Recommendations.pdf) 
 
-
+## Schedule a call
+[Schedule a 30 minute call](https://calendly.com/nikhilsinghal/30min)
