@@ -8,7 +8,7 @@ I have rich experience ranging from running my own startups to large companies s
 As an Engineering Leader and a Product Management executive, I am involved every day in different aspects of converting ideas to products that delight customers, defining strategy and vision, working through critical decision making, experimenting with new and emerging technologies and above all, building great teams. 
 
 I have a keen focus on measuring and continuously improving product impact and enhancing the consumer experiences. I have been able to build these scalable enterprise, web, and API products through these 3 core guiding principles:
-1.	Hire the right people to build the right product using the right process
+1.	As a leader, my focus is on building the right strategy, right product and right culture
 2.	Do more with less. Keep design and product architecture simple and extensible 
 3.	Listen to customer input and feedback, be data driven and monitor metrics
 
