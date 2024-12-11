@@ -25,7 +25,7 @@ nikhilsinghal@hotmail.com
 https://www.linkedin.com/in/nikhilsinghal/  
 
 ## Resume
-[Nikhil Singhal's Chief Architect resume]([https://github.com/nikhilsi/resume/blob/main/NikhilSinghalResume.pdf](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-Architect-Resume.pdf))
+[Nikhil Singhal's Chief Architect resume](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-Architect-Resume.pdf)
 
 ## LinkedIn Recommendations
 [Nikhil Singhal 109 LinkedIn recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-109-Recommendations.pdf) 
