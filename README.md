@@ -1,22 +1,29 @@
 # Nikhil Singhal 
+`ARCHITECT | CTO | VICE PRESIDENT ENGINEERING @ PRIVATE EQUITY BACKED AND FORTUNE 500 COMPANIES`
 
 ## Introduction
-23 Products. I have led, built, architected and evangelized 23 engaging user centric and B2B SaaS platform products over the last 25 years. All World-class, cutting-edge technology, built with love and passion that delight customers at scale. 
+With over 25 years of experience architecting and delivering scalable, innovative software solutions, I bring a proven track record of driving transformative results. My career has been defined by a commitment to crafting and implementing cutting-edge technology strategies that align with business objectives.
 
-I have rich experience ranging from running my own startups to large companies such as Microsoft, AT&T and Digital Equipment. My journey has enabled me to work deeply across various industry verticals – employee engagement and wellbeing, communities, travel, location-based gaming, ecommerce, green energy, insurance and education. 
+Over the years, I have built, architected, and evangelized 23 world-class, engaging user-centric and B2B platform products. My journey has spanned startups and global companies such as Microsoft, AT&T, and Digital Equipment, providing me with deep expertise across verticals including employee engagement, travel, e-commerce, green energy, and education. My core guiding principles are building the right strategy, maintaining simplicity in architecture, and prioritizing customer feedback and metrics-driven decisions.
 
-As an Engineering Leader and a Product Management executive, I am involved every day in different aspects of converting ideas to products that delight customers, defining strategy and vision, working through critical decision making, experimenting with new and emerging technologies and above all, building great teams. 
+As **Chief Technology Officer at The Tour Guy**, I spearheaded the development of an AI-powered travel platform leveraging machine learning, natural language processing, and advanced analytics. This initiative not only enhanced user personalization but also improved operational efficiency by 400% through dynamic pricing models and fraud detection systems.
 
-I have a keen focus on measuring and continuously improving product impact and enhancing the consumer experiences. I have been able to build these scalable enterprise, web, and API products through these 3 core guiding principles:
-1.	As a leader, my focus is on building the right strategy, right product and right culture
-2.	Do more with less. Keep design and product architecture simple and extensible 
-3.	Listen to customer input and feedback, be data driven and monitor metrics
+In my role as **CTO at Imperative Group Inc.**, I led the architecture of a peer coaching SaaS platform, achieving a 300% increase in ARR by scaling the platform’s capabilities with data-driven insights. My ability to design robust, scalable systems was further demonstrated at Expedia Group, where I directed the integration of VRBO systems into the lodging platform, generating $45 million in annual savings.
 
-I have led teams from 2 people to 200 people. I have been very lucky and fortunate to work with extremely talented and purpose driven folks through the years and have over 100+ recommendations from peers, managers, reports, customers and vendors.
+Key highlights of my technical expertise include:
+ - Mastery of enterprise and cloud architectures across AWS, Azure, and GCP.
+ - Proficiency in microservices, Kubernetes, Docker, and modern frameworks such as React and Node.js.
+ - Strong background in data engineering, big data, and machine learning-led product design, including developing AI algorithms for predictive analytics, natural language processing, and computer vision applications.
+ - Expertise in applying machine learning techniques such as deep learning, recommendation systems, and anomaly detection to enhance product functionality and operational efficiency.
+ - Proven leadership in building and mentoring high-performing, geographically distributed teams.
 
-It would be my pleasure and honor to lead the engineering teams at your organization. I strongly encourage you to take a look at my [LinkedIn profile recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf) from my past team members. I feel it speaks a ton about my leadership style, technical acumen, positive energy and nature. 
+Beyond my technical acumen, I am deeply committed to fostering a culture of innovation and collaboration. By prioritizing customer-centric design and leveraging data-driven decision-making, I have consistently delivered solutions that enhance user experiences and drive business growth.
 
-To summarize, I am a purpose driven leader with over 25 years of experience in scaling products, engineering and devops organizations. My core strengths include collaboratively defining the vision, driving strategic planning around it and building and growing organizations to deliver on those strategic initiatives. 
+Having led teams ranging from two to 200 members, I have cultivated an inclusive leadership style that has earned over [114 recommendations from peers, managers, and collaborators](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-Architect-Resume.pdf). My success stems from a relentless focus on aligning strategic planning with organizational goals while building a strong culture that empowers teams to excel.
+
+I am confident that my blend of technical expertise, strategic vision, and leadership skills makes me an excellent fit to contribute to your mission.
+
+I would welcome the opportunity to discuss how my experience and skills can align with your needs. Thank you for considering my application. I look forward to the possibility of contributing to your organization's success.
 
 Nikhil Singhal  
 Seattle, WA  
