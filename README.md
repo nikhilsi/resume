@@ -28,7 +28,7 @@ https://www.linkedin.com/in/nikhilsinghal/
 [Nikhil Singhal's Chief Architect resume](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-Architect-Resume.pdf)
 
 ## LinkedIn Recommendations
-[Nikhil Singhal 109 LinkedIn recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-109-Recommendations.pdf) 
+[Nikhil Singhal 114 LinkedIn recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf)
 
 ## Schedule a call
 [Schedule a 30 minute call](https://calendly.com/nikhilsinghal/30min)
