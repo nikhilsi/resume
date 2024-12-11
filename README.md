@@ -14,7 +14,7 @@ I have a keen focus on measuring and continuously improving product impact and e
 
 I have led teams from 2 people to 200 people. I have been very lucky and fortunate to work with extremely talented and purpose driven folks through the years and have over 100+ recommendations from peers, managers, reports, customers and vendors.
 
-It would be my pleasure and honor to lead the engineering teams at your organization. I strongly encourage you to take a look at my [LinkedIn profile recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-109-Recommendations.pdf) from my past team members. I feel it speaks a ton about my leadership style, technical acumen, positive energy and nature. 
+It would be my pleasure and honor to lead the engineering teams at your organization. I strongly encourage you to take a look at my [LinkedIn profile recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf) from my past team members. I feel it speaks a ton about my leadership style, technical acumen, positive energy and nature. 
 
 To summarize, I am a purpose driven leader with over 25 years of experience in scaling products, engineering and devops organizations. My core strengths include collaboratively defining the vision, driving strategic planning around it and building and growing organizations to deliver on those strategic initiatives. 
 
