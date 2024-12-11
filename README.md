@@ -30,5 +30,3 @@ https://www.linkedin.com/in/nikhilsinghal/
 ## LinkedIn Recommendations
 [Nikhil Singhal 114 LinkedIn recommendations](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf)
 
-## Schedule a call
-[Schedule a 30 minute call](https://calendly.com/nikhilsinghal/30min)
