@@ -1,6 +1,6 @@
 # Nikhil Singhal
 
-**CTO · VP Engineering · Builder of products, teams & organizations that ship**
+**CTO — VP Engineering — Builder of products, teams & organizations that ship**
 
 ---
 
