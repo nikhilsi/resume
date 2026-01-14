@@ -1,6 +1,6 @@
 # Nikhil Singhal
 
-**CTO | VP Engineering | Builder of products, teams & organizations that ship**
+**CTO · VP Engineering · Builder of products, teams & organizations that ship**
 
 ---
 
@@ -23,9 +23,9 @@ I hire smart people, remove obstacles, and focus on delivery over status meeting
 
 ## Documents
 
-📄 **[Resume (PDF)](./Nikhil-Singhal-Resume.pdf)**
+📄 **[Resume (PDF)](https://nikhilsi.github.io/resume/Nikhil-Singhal-Resume.pdf)**
 
-💬 **[114 LinkedIn Recommendations (PDF)](./Nikhil-Singhal-LinkedIn-114-Recommendations.pdf)**
+💬 **[114 LinkedIn Recommendations (PDF)](https://nikhilsi.github.io/resume/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf)**
 
 ---
 
