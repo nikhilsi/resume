@@ -15,9 +15,20 @@ I've done this at Expedia, T-Mobile, Microsoft, Imperative, Tour Guy. The patter
 - **300% ARR growth** — Scaled Imperative from $1M to $4M ARR
 - **400% operational efficiency** — Built AI-powered travel platform at Tour Guy
 
-In 2025, I started building again. [ScreenTrades.ai](https://screentrades.ai) is an AI-powered trading analysis platform I designed and shipped from scratch — React, FastAPI, Claude AI integration. 20 iterations to get it right.
-
 I hire smart people, remove obstacles, and focus on delivery over status meetings. That's how teams ship.
+
+---
+
+## What I'm Building
+
+### [ScreenTrades.ai](https://screentrades.ai)
+AI-powered trading analysis platform that reduces stock research from 30–60 minutes to seconds. Aggregates 20+ real-time data APIs and delivers BUY/HOLD/SELL recommendations with confidence scores, entry/exit points, and transparent reasoning. React, FastAPI, Claude AI. 20 iterations shipped in 6 months.
+
+### [GitaVani](https://github.com/nikhilsi/gitavani) · [gitavani.app](https://gitavani.app)
+iOS Bhagavad Gita reader — 701 verses, Sanskrit audio, translations from 17 scholars, commentaries in 3 languages, 4 visual themes. Built end-to-end in Swift/SwiftUI with zero external dependencies. Fully offline, bundled data. Submitted to App Store.
+
+### [ClearNews](https://github.com/nikhilsi/news-aggregator) · [getclearnews.com](https://getclearnews.com)
+News aggregator pulling from 41 sources across 13 categories with an in-app reader view. No ads, no clickbait. Three clients sharing one backend — Next.js web app, SwiftUI iOS app (submitted to App Store), and FastAPI REST API. Docker deployment, SWR caching, article deduplication.
 
 ---
 
@@ -32,10 +43,9 @@ I hire smart people, remove obstacles, and focus on delivery over status meeting
 ## Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsinghal/)
-- 🚀 [ScreenTrades.ai](https://screentrades.ai)
 - 📧 nikhilsinghal@hotmail.com
 - 📍 Seattle, WA
 
 ---
 
-*Currently building ScreenTrades while exploring what's next. Open to CTO, VP Engineering, or senior technical leadership roles.*
+*Open to CTO, VP Engineering, or senior technical leadership roles.*
