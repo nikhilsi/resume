@@ -21,14 +21,17 @@ I hire smart people, remove obstacles, and focus on delivery over status meeting
 
 ## What I'm Building
 
+### [TourGraph](https://github.com/nikhilsi/tourgraph) · [tourgraph.ai](https://tourgraph.ai)
+AI-powered supplier onboarding for the $250-400B tours & experiences market. Extracts structured inventory from operator websites using Claude API + Firecrawl, normalizes to OCTO industry standard, and makes it queryable by AI booking agents via MCP. Phase 0 spike complete across 7 operators: 83 products extracted, ~95% accuracy, zero pricing hallucinations. Built on direct experience as CTO at The Tour Guy.
+
 ### [ScreenTrades.ai](https://screentrades.ai)
 AI-powered trading analysis platform that reduces stock research from 30–60 minutes to seconds. Aggregates 20+ real-time data APIs and delivers BUY/HOLD/SELL recommendations with confidence scores, entry/exit points, and transparent reasoning. React, FastAPI, Claude AI. 20 iterations shipped in 6 months.
 
 ### [GitaVani](https://github.com/nikhilsi/gitavani) · [gitavani.app](https://gitavani.app)
-iOS Bhagavad Gita reader — 701 verses, Sanskrit audio, translations from 17 scholars, commentaries in 3 languages, 4 visual themes. Built end-to-end in Swift/SwiftUI with zero external dependencies. Fully offline, bundled data. Submitted to App Store.
+iOS Bhagavad Gita reader — 701 verses, Sanskrit audio, translations from 17 scholars, commentaries in 3 languages, 4 visual themes. Built end-to-end in Swift/SwiftUI with zero external dependencies. Fully offline, bundled data. Published on App Store.
 
 ### [ClearNews](https://github.com/nikhilsi/news-aggregator) · [getclearnews.com](https://getclearnews.com)
-News aggregator pulling from 41 sources across 13 categories with an in-app reader view. No ads, no clickbait. Three clients sharing one backend — Next.js web app, SwiftUI iOS app (submitted to App Store), and FastAPI REST API. Docker deployment, SWR caching, article deduplication.
+News aggregator pulling from 41 sources across 13 categories with an in-app reader view. No ads, no clickbait. Three clients sharing one backend — Next.js web app, SwiftUI iOS app (published on App Store), and FastAPI REST API. Docker deployment, SWR caching, article deduplication.
 
 ---
 
