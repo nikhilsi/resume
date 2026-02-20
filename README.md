@@ -24,7 +24,7 @@ I hire smart people, remove obstacles, and focus on delivery over status meeting
 ### [TourGraph](https://github.com/nikhilsi/tourgraph) · [tourgraph.ai](https://tourgraph.ai)
 AI-powered supplier onboarding for the $250-400B tours & experiences market. Extracts structured inventory from operator websites using Claude API + Firecrawl, normalizes to OCTO industry standard, and makes it queryable by AI booking agents via MCP. Phase 0 spike complete across 7 operators: 83 products extracted, ~95% accuracy, zero pricing hallucinations. Built on direct experience as CTO at The Tour Guy.
 
-### [ScreenTrades.ai](https://screentrades.ai)
+### [ScreenTrades.ai](https://screentrades.ai) · [screentrades.ai](https://screentrades.ai)
 AI-powered trading analysis platform that reduces stock research from 30–60 minutes to seconds. Aggregates 20+ real-time data APIs and delivers BUY/HOLD/SELL recommendations with confidence scores, entry/exit points, and transparent reasoning. React, FastAPI, Claude AI. 20 iterations shipped in 6 months.
 
 ### [GitaVani](https://github.com/nikhilsi/gitavani) · [gitavani.app](https://gitavani.app)
