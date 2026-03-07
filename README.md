@@ -36,6 +36,9 @@ iOS Bhagavad Gita reader — 701 verses, Sanskrit audio, translations from 17 sc
 ### [ClearNews](https://github.com/nikhilsi/news-aggregator) · [getclearnews.com](https://getclearnews.com)
 News aggregator pulling from 41 sources across 13 categories with an in-app reader view. No ads, no clickbait. Three clients sharing one backend — Next.js web app, SwiftUI iOS app (published on App Store), and FastAPI REST API. Progressive cold-cache loading, SWR caching, article deduplication. Docker deployment on DigitalOcean.
 
+### [CoPilots Launchpad](https://github.com/nikhilsi/copilots-launchpad) · [github.com/nikhilsi/copilots-launchpad](https://github.com/nikhilsi/copilots-launchpad)
+Electron desktop app that lets you manage ~20 M365 test accounts and launch any of them into Chrome or Edge with a single click. Playwright automates the login flow — detects session state via Promise.race, fills credentials only when needed, then disconnects. Each account gets an isolated browser profile via --user-data-dir, and credentials are encrypted through the OS keychain (Electron safeStorage). Features include dark/light/system themes, grouped accounts with search/filter, CSV import/export with conflict detection, and system tray persistence. Cross-platform (macOS .dmg, Windows .exe) with GitHub Actions CI/CD on tag push. Built for a real user's daily QA workflow testing Copilot Chat across different license tiers. Electron 29, React, Tailwind, playwright-core. MIT license. Idea to shipped v1 in 4 hours.
+
 ---
 
 ## Documents
