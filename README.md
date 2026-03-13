@@ -41,8 +41,11 @@ Electron desktop app for M365 test account management. Playwright auto-login, is
 
 ## What the Building Taught Me
 
-### [From Instinct to Intent™](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594)
-A manifesto on the missing interface between human judgment and machine execution. The concept: between what a human means and what AI does, there needs to be a structural layer — not natural language, not prompt engineering, but enforceable constraint declarations. USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=99690685&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)). Published on [Zenodo](https://doi.org/10.5281/zenodo.18917473), [Medium](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594), and [aitrustcommons.org](https://aitrustcommons.org/blog/2026/03/08/discovering-intent/). Book in progress.
+### [From Instinct to Intent™](https://aitrustcommons.org/blog/)
+A publication series on the missing interface between human judgment and machine execution. The concept: between what a human means and what AI does, there needs to be a structural layer — not natural language, not prompt engineering, but enforceable constraint declarations. USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=99690685&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)). Book in progress.
+
+- **Article 1:** [Discovering Intent: The Journey That Starts Before You're Ready](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594) — The manifesto. Published on [Zenodo](https://doi.org/10.5281/zenodo.18917473), [Medium](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594), and [aitrustcommons.org](https://aitrustcommons.org/blog/2026/03/08/discovering-intent/).
+- **Article 2:** [We Are Making AI Write Code in Languages Designed for Humans. That Is the Problem.](https://medium.com/@nikhilsinghal-ai-trust-commons/we-are-making-ai-write-code-in-languages-designed-for-humans-that-is-the-problem-d6721ab296ad) — AI-native programming languages and the Intent Layer. Published on [Zenodo](https://doi.org/10.5281/zenodo.19005877), [Medium](https://medium.com/@nikhilsinghal-ai-trust-commons/we-are-making-ai-write-code-in-languages-designed-for-humans-that-is-the-problem-d6721ab296ad), and [aitrustcommons.org](https://aitrustcommons.org/blog/2026/03/13/languages-designed-for-humans/).
 
 ### [NIST Public Comment on AI Agent Governance](https://www.regulations.gov/comment/NIST-2025-0035-0352)
 ~5,000 word submission to NIST CAISI docket on AI agent security. Three arguments: organizational governance is already broken and agents make it worse, NIST should drive convergence across existing standards rather than adding another layer, and compliance must become machine-readable. Grounded in deploying compliance across 8 organizations, 7 industries, and regimes including SOC 2, PCI DSS, HIPAA, COPPA, FERPA, FCC, and ITAR/EAR.
@@ -64,7 +67,9 @@ Before this: CTO and VP Engineering roles across Expedia ($45M savings), Imperat
 
 💬 **[114 LinkedIn Recommendations (PDF)](https://nikhilsi.github.io/resume/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf)**
 
-📝 **[Manifesto: From Instinct to Intent™](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594)**
+📝 **[Article 1: Discovering Intent (Manifesto)](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594)**
+
+📝 **[Article 2: Languages Designed for Humans](https://medium.com/@nikhilsinghal-ai-trust-commons/we-are-making-ai-write-code-in-languages-designed-for-humans-that-is-the-problem-d6721ab296ad)**
 
 📋 **[NIST Public Comment on AI Agent Governance](https://www.regulations.gov/comment/NIST-2025-0035-0352)**
 
